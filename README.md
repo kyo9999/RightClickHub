@@ -88,26 +88,11 @@ RightClickHub - 文件中心
 ● 上传自定义图片作为应用壁纸，打造个性化界面。
 如有改进建议，欢迎发送邮件至 283784210@qq.com，感谢您的支持！
 
--
-
-file:///.file/id=6571367.4757683
-file:///.file/id=6571367.4768641
-file:///.file/id=6571367.4758994
-file:///.file/id=6571367.4772342
-file:///.file/id=6571367.4759846
-file:///.file/id=6571367.4761559
-file:///.file/id=6571367.4774135
-file:///.file/id=6571367.4760734
-file:///.file/id=6571367.4770581
-file:///.file/id=6571367.6585411
-file:///.file/id=6571367.4773215
-
 =
 
 RightClickHub - File Center for macOS, File in Menu Bar, Dock, Mouse
 https://youtu.be/nNP1trocrZY
 
 https://apps.apple.com/app/id6786096292
-
 
 
