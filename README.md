@@ -88,6 +88,21 @@ RightClickHub - 文件中心
 ● 上传自定义图片作为应用壁纸，打造个性化界面。
 如有改进建议，欢迎发送邮件至 283784210@qq.com，感谢您的支持！
 
+-
+
+
+<img width="2880" height="1800" alt="菜单栏" src="https://github.com/user-attachments/assets/45250f26-33d0-4253-85ac-df50fc30f773" />
+<img width="2880" height="1800" alt="排序" src="https://github.com/user-attachments/assets/0ee9902c-3034-4c5e-b27d-dc26003fbf5e" />
+<img width="2880" height="1800" alt="右键添加" src="https://github.com/user-attachments/assets/8d23bc4e-e16c-409f-b6a9-f204b546b5db" />
+<img width="2880" height="1800" alt="新建" src="https://github.com/user-attachments/assets/a024b99b-7a37-450b-983f-92eb851be7bc" />
+<img width="2880" height="1800" alt="卸载" src="https://github.com/user-attachments/assets/a120641e-d2aa-4fd1-8992-09eed5f19663" />
+<img width="2880" height="1800" alt="授权" src="https://github.com/user-attachments/assets/bb9dcae9-7366-4005-8938-e1e231ebbd98" />
+<img width="2880" height="1800" alt="日历" src="https://github.com/user-attachments/assets/43e03281-3dbc-4886-bbd5-8e049b48e3d3" />
+<img width="2880" height="1800" alt="启动" src="https://github.com/user-attachments/assets/9b9b3efa-6b53-4d2d-8450-446708e633d6" />
+<img width="2880" height="1800" alt="配置插件" src="https://github.com/user-attachments/assets/92c43e0e-db47-4a16-b742-b4d32047ac48" />
+<img width="2880" height="1800" alt="截屏" src="https://github.com/user-attachments/assets/0ccddda9-ce4d-4359-b524-f89ec0aacfac" />
+<img width="2880" height="1800" alt="背景" src="https://github.com/user-attachments/assets/fa378008-bc77-4d2d-8095-3f13db66dd22" />
+
 =
 
 RightClickHub - File Center for macOS, File in Menu Bar, Dock, Mouse
